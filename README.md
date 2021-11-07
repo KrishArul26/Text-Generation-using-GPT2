@@ -1,7 +1,7 @@
 <h2 align="center"> Text-Generation-using-GPT2 </h2>
 
  <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/74568334/140315545-de6e357e-a0fa-43e2-891f-44afe6baf2ba.png">
+  <img width="600" src="https://user-images.githubusercontent.com/74568334/140661104-5ff970bf-d586-4619-bfb4-900dfd1d5d2c.png">
 </p> 
 
 <h3 align="left">Introduction </h3>
